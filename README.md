@@ -8,3 +8,9 @@
 - Created a new Github Repository
 - Created README.md
 - Pushed to Github ('Initial commit')
+- Created procfile
+- Created new Heroku app
+- Edited APP_KEY
+- Pushed to Heroku
+- Pushed to github
+- It is now online <a href="https://pacific-ocean-94837.herokuapp.com/">here</a>!
