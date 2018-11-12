@@ -7,3 +7,4 @@
 - Created a new Laravel project
 - Created a new Github Repository
 - Created README.md
+- Pushed to Github ('Initial commit')
